@@ -1,0 +1,42 @@
+/*********************************************************
+** ChatRMI
+** Chat construído com a tecnologia RMI
+**
+** By Genilto.com - www.genilto.com
+** Mantenha os direitos reservados.
+/*********************************************************
+
+Construido para fins acadêmicos, ChatRMI trata-se de 
+um chat em rede construído com a tecnologia JAVA RMI.
+
+/*********************************************************
+** CONFIGURAÇÃO
+**
+** By Genilto.com - www.genilto.com
+** Mantenha os direitos reservados.
+/*********************************************************
+
+Esta release é um projeto do Netbeans.
+
+Para configurar seu projeto siga os passos abaixo:
+
+1. ABRINDO SEU PROJETO
+  Descompacte o arquivo ChatRMI.v01.zip para uma pasta 
+  a sua escolha.
+  Abra o Netbeans e abra o projeto na pasta descompactada.
+
+/*********************************************************
+** DÚVIDAS???
+**
+** By Genilto.com - www.genilto.com
+** Mantenha os direitos reservados.
+/*********************************************************
+
+Se restar alguma dúvida, acesse o site www.genilto.com e entre
+em contato ou mande um email para mim, 
+genilto@genilto.com.
+
+Muito Obrigado!!
+
+Att.
+Genilto Vanzin
